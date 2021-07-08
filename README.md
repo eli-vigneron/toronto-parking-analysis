@@ -1,2 +1,2 @@
 # toronto-parking-analysis
-Data Analyst &amp; Integrator (Data Science) Take Home Assignment
+A look at parking ticket data from the city of toronto for the past 10 years.
